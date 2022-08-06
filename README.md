@@ -1,3 +1,1 @@
-# web-scraper-word-cloud
-מטרת הפרויקט הייתה ליצור ענן מילים שמבוסס ממידע ממבזקים שקצרתי מווינט.
-בעזרת הענן אפשר להבין בהרצת קוד מה מתרחש בארץ ובעולם באותה נקודת זמן.
+Web scraper that scrape Ynet's news and show it on a wordcloud
